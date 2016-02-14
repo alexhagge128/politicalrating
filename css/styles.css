@@ -1,0 +1,7 @@
+#conservative, #moderate, #liberal {
+  display: none;
+}
+
+.btn {
+  display: block;
+}
