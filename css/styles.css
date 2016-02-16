@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-#conservative, #moderate, #liberal {
-  display: none;
-}
-
-=======
->>>>>>> 478c3c33c155cabfb2a73271e91f1fc4c349d868
 .btn {
   display: block;
 }
+
+.form-group {margin: 3em}
